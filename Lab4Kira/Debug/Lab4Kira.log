@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ksyusha\source\repos\lab4kira\lab4kira\main.cpp(15): warning C4189: mode: локальная переменная инициализирована, но не использована
+c:\users\ksyusha\source\repos\lab4kira\lab4kira\main.cpp(15): warning C4189: resSizeText: локальная переменная инициализирована, но не использована
+  Lab4Kira.vcxproj -> C:\Users\Ksyusha\source\repos\Lab4Kira\Debug\Lab4Kira.exe
